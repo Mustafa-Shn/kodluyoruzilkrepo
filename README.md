@@ -1,7 +1,7 @@
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-'''git
+'''python
 git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
 '''
 
