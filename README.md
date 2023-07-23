@@ -1,4 +1,4 @@
-#Kodluyoruz Ilk Repo
+# Kodluyoruz Ilk Repo
 
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
